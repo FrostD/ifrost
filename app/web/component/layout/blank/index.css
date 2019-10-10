@@ -1,0 +1,9 @@
+html.layout-blank {
+    height: 100%;
+}
+
+.layout-blank body {
+    height: 100%;
+    background: #fff url(../../../asset/images/login/bg-login-blurred.jpg) 50% 50% no-repeat;
+    background-size: cover;
+}

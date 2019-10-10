@@ -1,0 +1,59 @@
+{
+  "common.js": "/public/js/chunk/common.js",
+  "family/index.js": "/public/js/chunk/family/index.js",
+  "home/index.js": "/public/js/chunk/home/index.js",
+  "login/index.js": "/public/js/chunk/login/index.js",
+  "runtime.js": "/public/js/runtime.js",
+  "font/element-icons.ttf": "/public/font/element-icons.ttf",
+  "font/element-icons.woff": "/public/font/element-icons.woff",
+  "img/avatar-person.png": "/public/img/avatar-person.png",
+  "img/bg-abstract.png": "/public/img/bg-abstract.png",
+  "img/bg-banner.jpg": "/public/img/bg-banner.jpg",
+  "img/bg-login-blurred.jpg": "/public/img/bg-login-blurred.jpg",
+  "img/logo-deng.png": "/public/img/logo-deng.png",
+  "img/photo-1.jpg": "/public/img/photo-1.jpg",
+  "img/photo-2.jpg": "/public/img/photo-2.jpg",
+  "img/photo-3.jpg": "/public/img/photo-3.jpg",
+  "img/photo-4.jpg": "/public/img/photo-4.jpg",
+  "img/photo-5.jpg": "/public/img/photo-5.jpg",
+  "img/sy_img1.jpg": "/public/img/sy_img1.jpg",
+  "img/sy_img2.jpg": "/public/img/sy_img2.jpg",
+  "img/sy_img3.jpg": "/public/img/sy_img3.jpg",
+  "img/sy_img4.jpg": "/public/img/sy_img4.jpg",
+  "img/sy_img5.jpg": "/public/img/sy_img5.jpg",
+  "vendor.js": "/public/js/vendor.js",
+  "deps": {
+    "family/index.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/family/index.js"
+      ],
+      "css": []
+    },
+    "home/index.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/home/index.js"
+      ],
+      "css": []
+    },
+    "login/index.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/login/index.js"
+      ],
+      "css": []
+    }
+  },
+  "info": {
+    "publicPath": "/public/",
+    "buildPath": "public",
+    "mapped": true
+  }
+}
