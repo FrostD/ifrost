@@ -24,7 +24,7 @@
     "egg-view-vue-ssr": "^3.0.2",
     "element-ui": "^2.11.1",
     "extend": "~3.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.4",
     "mint-ui": "^2.2.9",
     "mockjs": "^1.0.1-beta3",
